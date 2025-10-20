@@ -1,7 +1,17 @@
 title: "Ferran Vila"
+logo: "/assets/images/ferran_vila.png"
 description: "Software Architect"
 url: "https://www.ferranvila.com"
-theme: minima
+
+theme: jekyll-theme-minimal
+
 author:
   name: "Ferran Vila Conesa"
   email: "ferran.vila.conesa@gmail.com"
+
+social_links:
+  github: ferranvila
+  linkedin: ferranvila
+
+show_downloads: false
+# google_analytics: UA-XXXXXXXX-X
